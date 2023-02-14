@@ -18,8 +18,7 @@ Instructions for running the app:
    MAPBOX_API_KEY=...
    OPENWEATHERMAP_API_KEY=...
 
-MAPBOX_API_KEY=pk.eyJ1IjoiYWNodWVuZSIsImEiOiJjbGUwNHZlNzYwM2I0M29tdm91NmppZWxmIn0.KNSukP8HhNvCV5qff3cznA
-OPENWEATHERMAP_API_KEY=116645c1b7abc82ed584e2c8aa85f752
+
    ```
 
    Replace '...' with the actual api keys.
